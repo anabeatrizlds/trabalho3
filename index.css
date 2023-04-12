@@ -1,0 +1,23 @@
+body{
+	background: #FFFFF0;
+.titulo-principal{
+	color: black;
+}
+#sol{
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+    width: 0px;
+}
+#vermelho{
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+	width: 70px;
+}
+#rox{
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+	width: 0px;
+}
